@@ -1,0 +1,9 @@
+{
+    "name": "richardcanoe/demo_profile",
+    "description": "DDemo drupal 8 profile.",
+    "type": "drupal-profile",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": "^7.1",
+    }
+}

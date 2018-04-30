@@ -13,7 +13,7 @@
  */
 function demo_profile_install() {
 	// First, do everything in standard profile.
-	include_once DRUPAL_ROOT.'/core/profiles/standard/standard.install';
+	include_once DRUPAL_ROOT.'/core/profiles/minimal/minimal.install';
 	standard_install();
 
 	// Can add code in here to make nodes, terms, etc.
