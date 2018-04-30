@@ -1,0 +1,37 @@
+name: OpenEuropa Profile
+type: profile
+description: Test OpenEuropa installation profile.
+project: test_oe_profile
+version: VERSION
+core: 8.x
+
+dependencies:
+
+  - node
+  - history
+  - block
+  - config
+  - menu_link_content
+  - datetime
+  - block_content
+  - editor
+  - help
+  - image
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - toolbar
+  - field_ui
+  - file
+  - filter
+  - user
+  - views
+  - views_ui
+  - oe_core
+
+themes:
+  - seven
+  - oe_theme
