@@ -1,6 +1,6 @@
 {
     "name": "richardcanoe/test_oe_profile",
-    "description": "DDemo drupal 8 profile.",
+    "description": "Demo drupal 8 profile.",
     "type": "drupal-profile",
     "license": "GPL-2.0-or-later",
     "require": {
