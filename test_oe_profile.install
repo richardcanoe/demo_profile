@@ -1,7 +1,7 @@
 <?php
 /**
  * @file
- * Install, update and uninstall functions for the profilename install profile.
+ * Install, update and uninstall functions for the test_oe_them install profile.
  */
 
 /**
@@ -12,9 +12,6 @@
  * @see system_install()
  */
 function test_oe_profile_install() {
-	// First, do everything in standard profile.
-	include_once DRUPAL_ROOT.'/core/profiles/minimal/minimal.install';
-	standard_install();
 
 	// Can add code in here to make nodes, terms, etc.
 }
